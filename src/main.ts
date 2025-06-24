@@ -1,2 +1,2 @@
-let username = 'anonymous'
+let username = 'anonymous user'
 console.log(username)
