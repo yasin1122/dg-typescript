@@ -1,3 +1,3 @@
 "use strict";
-let username = 'anonymous user12';
+let username = 'anonymous user';
 console.log(username);
